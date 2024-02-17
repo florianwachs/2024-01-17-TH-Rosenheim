@@ -6,4 +6,3 @@ Der Vortrag war eine komprimierte Zusammenfassung von "Lessons Learned", also Th
 
 Disclaimer:  
 Wie immer gilt: "It depends". Es gibt nicht "den einen Weg". Ich kann Euch nur ans Herz legen möglichst viele Ansätze selbst auszuprobieren und das beizubehalten was für Euch / Euer Team funktioniert.
-s
